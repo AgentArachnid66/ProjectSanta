@@ -1,0 +1,9 @@
+[submodule "Source/UE5-WaveFunctionCollapse"]
+	path = Source/UE5-WaveFunctionCollapse
+	url = https://github.com/SpyderWeb-Studios/UE5-WaveFunctionCollapse.git
+[submodule "Plugins/UE5-MultiplayerQuestPlugin"]
+	path = Plugins/UE5-MultiplayerQuestPlugin
+	url = https://github.com/SpyderWeb-Studios/UE5-MultiplayerQuestPlugin
+[submodule "Plugins/UE5-Door-Plugin"]
+	path = Plugins/UE5-Door-Plugin
+	url = https://github.com/SpyderWeb-Studios/UE5-Door-Plugin.git
